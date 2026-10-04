@@ -44,6 +44,8 @@ Open http://127.0.0.1:6969 to see the helper's status and the last data it recei
 - Other Miruro domains: add them to `manifest.json` (`host_permissions`) and the regex in `extension/content.js`.
 - Wrong title or episode? Adjust `pageInfo()` in `extension/content.js`.
 
+- Disclaimer: This is an unofficial, fan-made project. I'm not affiliated with, endorsed by, or connected to **Discord** or **Miruro** in any way. I made it for my own enjoyment and hope others find it useful too.
+
 ## License
 
 MIT
